@@ -1,6 +1,6 @@
 {
   "name": "bornforthis-static",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bornforthi static",
   "main": "index.js",
   "scripts": {
