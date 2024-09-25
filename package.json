@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AndersonHJB/npm-data.git"
+    "url": "git+https://github.com/AndersonHJB/bornforthis-static.git"
   },
   "author": "Bornforthis",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AndersonHJB/npm-data/issues"
+    "url": "https://github.com/AndersonHJB/bornforthis-static/issues"
   },
-  "homepage": "https://github.com/AndersonHJB/npm-data#readme"
+  "homepage": "https://github.com/AndersonHJB/bornforthis-static#readme"
 }
